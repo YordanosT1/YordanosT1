@@ -1,4 +1,4 @@
-- 👋 Hi, I’m an AWS Certified Associate solutions architect.
+- 👋 Hi, I’m an AWS Certified Associate solutions architect and a junior Back end developer.
 - 👀 I’m interested in providing cloud solutions.
 - 🌱 I’m constantly upskilling to stay in sync with the technology.
 - 💞️ I’m looking to collaborate on projects that require my skillset.
